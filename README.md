@@ -8,6 +8,6 @@ Um desafio proposto pela comunidade codelândia, recriar a interface da melhor f
 
 ## Feature
 
-[ ] Implementar a parte do campo de busca funcional.
+[x] Implementar a parte do campo de busca funcional.
 
 [ ] Implementar o preenchimento do coração do blog simulando uma curtida.
